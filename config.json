@@ -1,0 +1,16 @@
+{
+  "transporterName": "",
+  "email": {
+    "host": "",
+    "name": "",
+    "password": "",
+    "receiver": ""
+  },
+  "train": {
+    "from": "",
+    "to": "",
+    "date": "",
+    "seatLevel": [],
+    "code": ""
+  }
+}
